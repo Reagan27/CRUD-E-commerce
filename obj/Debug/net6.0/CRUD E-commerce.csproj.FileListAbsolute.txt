@@ -1,0 +1,15 @@
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\bin\Debug\net6.0\CRUD E-commerce.exe
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\bin\Debug\net6.0\CRUD E-commerce.deps.json
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\bin\Debug\net6.0\CRUD E-commerce.runtimeconfig.json
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\bin\Debug\net6.0\CRUD E-commerce.dll
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\bin\Debug\net6.0\CRUD E-commerce.pdb
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.dll
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\refint\CRUD E-commerce.dll
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.pdb
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\CRUD E-commerce.genruntimeconfig.cache
+C:\Users\Lenovo Ideapad S340\source\repos\CRUD E-commerce\obj\Debug\net6.0\ref\CRUD E-commerce.dll

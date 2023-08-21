@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKjnJBSnAeZVkUzN8ET2VXPSy/ECgzOAPn2QMdMaN2LCqaoayCdnG0F/Thyh+1YsMGD1FxbZYqFRCR4JuRO0Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo Ideapad S340\\source\\repos\\CRUD E-commerce\\CRUD E-commerce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo Ideapad S340\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Lenovo Ideapad S340\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Lenovo Ideapad S340\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Lenovo Ideapad S340\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
